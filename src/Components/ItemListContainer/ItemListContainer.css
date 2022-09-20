@@ -1,0 +1,15 @@
+.cargando{
+    align-items: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ItemContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}

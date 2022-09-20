@@ -1,0 +1,21 @@
+.contador{
+    display: flex;
+    align-items: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    outline: solid black 2px;
+    background-color: aquamarine;
+}
+
+.botones{
+    display: flex;
+    align-items: center;
+}
+
+.boton{
+    width: 50px;
+    font-family: 'Aboreto', cursive;
+}

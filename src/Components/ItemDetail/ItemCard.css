@@ -1,0 +1,11 @@
+.tamano{
+    height: 150px;
+    width: 100%;
+}
+
+.botoncito{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
